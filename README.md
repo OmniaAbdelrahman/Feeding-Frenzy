@@ -1,2 +1,3 @@
 # Feeding Frenzy
- Desktop game with python  tools:python-pygame-oop
+ Desktop game with python. 
+ tools : (python-pygame)
